@@ -23,9 +23,26 @@ Here are some ideas to get you started:
 <ul>
   <li><strong>Foodie Finder</strong>: 미식가들을 위한 SNS 서비스
     <ul>
-      <li>기술 스택: Spring Boot, React, Docker, Docker-Compose, GitHub Actions, MySQL, Redis</li>
+      <li>기술 스택: Spring Boot, React, nginx, Docker, Docker-Compose, GitHub Actions, MySQL, Redis</li>
       <li><a href="https://github.com/caterpillar-butler/foodie-finder-client">클라이언트 링크</a></li>
       <li><a href="https://github.com/caterpillar-butler/foodie-finder-server">서버 링크</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 align="left">📂 이전 프로젝트</h2>
+<ul>
+  <li><strong>Group Chat App</strong>: socker.io를 활용한 단체 채팅 웹 앱 개발
+    <ul>
+      <li>기술 스택: react, node.js, express.js</li>
+      <li><a href="https://github.com/koonlx/chat-app-MERN">프로젝트 링크</a></li>
+    </ul>
+  </li>
+  <li><strong>Hotel booking site</strong>: 호텔 예약 사이트 개발
+    <ul>
+      <li>기술 스택: spring boot, docker, docker-compose, AWS, thymeleaf, mysql, JPA</li>
+      <li><a href="https://github.com/caterpillar-team/STAY_CONNECT">프로젝트 링크</a></li>
+      <li><a href="https://stayconnect.shop">배포 링크</a></li>
     </ul>
   </li>
 </ul>
@@ -98,10 +115,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </p>
